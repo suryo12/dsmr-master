@@ -1,0 +1,69 @@
+# Copyright (C) 2016, Dennis Siemensma
+# This file is distributed under the same license as the DSMR Reader
+# package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DSMR Reader v1.x\n"
+"Report-Msgid-Bugs-To: Dennis Siemensma <github@dennissiemensma.nl>\n"
+"POT-Creation-Date: 2017-02-18 00:28+0100\n"
+"PO-Revision-Date: 2017-02-19 17:52+0100\n"
+"Last-Translator: Dennis Siemensma <github@dennissiemensma.nl>\n"
+"Language-Team: Dennis Siemensma <github@dennissiemensma.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+"Language: nl\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: ../../contributing.rst:2
+msgid "Contributing"
+msgstr "Bijdrage leveren"
+
+#: ../../contributing.rst:3
+msgid "Would you like to contribute or help this project in any way?"
+msgstr "Wil je bijdragen aan dit project? Kijk dan hieronder hoe je kunt helpen."
+
+#: ../../contributing.rst:7
+msgid "Feedback / Bugs / Contact"
+msgstr "Feedback / Bugs / Contact"
+
+#: ../../contributing.rst:8
+msgid ""
+"Any feedback or input is appreciated. It doesn't matter whether you run into "
+"problems or just want to get in touch, just fire away!"
+msgstr ""
+"Het maakt niet uit of je ergens tegenaan loopt of gewoon in contact wil komen, "
+"vraag maar raak!"
+
+#: ../../contributing.rst:13
+msgid ""
+"`Please create an issue on Github <https://github.com/dennissiemensma/dsmr-"
+"reader/issues/new>`_ to get in contact."
+msgstr ""
+"`Maak op Github een ticket aan met je vraag of opmerking <https://github.com/"
+"dennissiemensma/dsmr-reader/issues/new>`_."
+
+#: ../../contributing.rst:17
+msgid "Pull requests"
+msgstr "Pull requests"
+
+#: ../../contributing.rst:18
+msgid ""
+"Pull requests are appreciated, but please note that you should discuss any "
+"changes with a Github ticket first. It would be a shame if you'd put any "
+"effort in something that won't get merged after all."
+msgstr ""
+"Pull requests worden gewaardeerd, maar wees ervan bewust dat je wijzigingen "
+"het beste eerst kunt bespreken op Github via een ticket. Het zou zonde zijn "
+"wanneer je namelijk tijd steekt in iets wat achteraf niet gemerged wordt."
+
+#: ../../contributing.rst:21
+msgid ""
+"Also, please do not create pull requests for the ``master`` branch, but always "
+"point it to ``development``."
+msgstr ""
+"Tot slot, zorg ervoor dat pull requests altijd naar de ``development`` branch "
+"wijzen en niet de ``master``."
+

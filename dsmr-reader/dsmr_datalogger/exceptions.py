@@ -1,0 +1,2 @@
+class InvalidTelegramError(IOError):
+    pass
